@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "backstopjs": "^6.2.2",
+    "playwright": "^1.36.1",
+    "puppeteer": "^20.9.0"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
